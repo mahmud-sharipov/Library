@@ -1,0 +1,104 @@
+[
+  {
+    "Id": 1,
+    "BookId": 4,
+    "Book": {
+      "Id": 4,
+      "Name": "Afsona1",
+      "MuallifId": 5,
+      "Muallif": {
+        "Id": 5,
+        "Name": "Shokirov b"
+      },
+      "CategoriyId": 2,
+      "Categoriy": {
+        "Id": 2,
+        "Name": "Badei"
+      },
+      "NamberOfPage": 234
+    },
+    "CustomerId": 2,
+    "Customer": {
+      "Id": 2,
+      "FillName": "Baliev Bali",
+      "Address": "JaborRasulov",
+      "Phone": "987094sa321"
+    },
+    "WorkerId": 1,
+    "Worker": {
+      "Id": 1,
+      "FillName": "Mahmud Sharipov",
+      "Address": "Shaydon",
+      "Phone": "981042597"
+    },
+    "DateTime": "2022-10-07T18:28:04.503792+05:00"
+  },
+  {
+    "Id": 2,
+    "BookId": 4,
+    "Book": {
+      "Id": 4,
+      "Name": "Afsona1",
+      "MuallifId": 5,
+      "Muallif": {
+        "Id": 5,
+        "Name": "Shokirov b"
+      },
+      "CategoriyId": 2,
+      "Categoriy": {
+        "Id": 2,
+        "Name": "Badei"
+      },
+      "NamberOfPage": 234
+    },
+    "CustomerId": 3,
+    "Customer": {
+      "Id": 3,
+      "FillName": "Aliev Ali",
+      "Address": "Dushanbe",
+      "Phone": "9870943asca21"
+    },
+    "WorkerId": 1,
+    "Worker": {
+      "Id": 2,
+      "FillName": "Shabon Sharipov",
+      "Address": "Shaydon",
+      "Phone": "987094321"
+    },
+    "DateTime": "2022-10-07T18:28:16.8860105+05:00"
+  },
+  {
+    "Id": 5,
+    "BookId": 4,
+    "Book": {
+      "Id": 4,
+      "Name": "Afsona1",
+      "MuallifId": 5,
+      "Muallif": {
+        "Id": 5,
+        "Name": "Shabon"
+      },
+      "CategoriyId": 2,
+      "Categoriy": {
+        "Id": 2,
+        "Name": "Badei"
+      },
+      "NamberOfPage": 234
+    },
+    "CustomerId": 3,
+    "Customer": {
+      "Id": 3,
+      "FillName": "Aliev Ali",
+      "Address": "Dushanbe",
+      "Phone": "9870943asca21"
+    },
+    "WorkerId": 1,
+    "Worker": {
+      "Id": 1,
+      "FillName": "Mahmud Sharipov",
+      "Address": "Shaydon",
+      "Phone": "981042597"
+    },
+    "DateTime": "2022-10-07T18:28:54.3481744+05:00"
+  }
+]

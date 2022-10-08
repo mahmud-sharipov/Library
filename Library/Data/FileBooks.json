@@ -1,0 +1,77 @@
+[
+  {
+    "Id": 3,
+    "Name": "Adabiyt",
+    "MuallifId": 5,
+    "Muallif": {
+      "Id": 5,
+      "Name": "Shokirov b"
+    },
+    "CategoriyId": 1,
+    "Categoriy": {
+      "Id": 1,
+      "Name": "Ilmi"
+    },
+    "NamberOfPage": 1234
+  },
+  {
+    "Id": 4,
+    "Name": "Afsona1",
+    "MuallifId": 5,
+    "Muallif": {
+      "Id": 5,
+      "Name": "Shokirov b"
+    },
+    "CategoriyId": 2,
+    "Categoriy": {
+      "Id": 2,
+      "Name": "Badei"
+    },
+    "NamberOfPage": 234
+  },
+  {
+    "Id": 5,
+    "Name": "Fizika",
+    "MuallifId": 2,
+    "Muallif": {
+      "Id": 2,
+      "Name": "Shabon"
+    },
+    "CategoriyId": 1,
+    "Categoriy": {
+      "Id": 1,
+      "Name": "Ilmi"
+    },
+    "NamberOfPage": 132
+  },
+  {
+    "Id": 6,
+    "Name": "Ximiy",
+    "MuallifId": 4,
+    "Muallif": {
+      "Id": 4,
+      "Name": "Aliev S"
+    },
+    "CategoriyId": 1,
+    "Categoriy": {
+      "Id": 1,
+      "Name": "Ilmi"
+    },
+    "NamberOfPage": 123
+  },
+  {
+    "Id": 7,
+    "Name": "Afsona2",
+    "MuallifId": 4,
+    "Muallif": {
+      "Id": 4,
+      "Name": "Aliev S"
+    },
+    "CategoriyId": 2,
+    "Categoriy": {
+      "Id": 2,
+      "Name": "Badei"
+    },
+    "NamberOfPage": 123
+  }
+]

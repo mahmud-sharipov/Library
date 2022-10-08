@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "FillName": "Shabon Sharipov",
+    "Address": "Shaydon",
+    "Phone": "987094321"
+  },
+  {
+    "Id": 2,
+    "FillName": "Baliev Bali",
+    "Address": "JaborRasulov",
+    "Phone": "987094sa321"
+  },
+  {
+    "Id": 3,
+    "FillName": "Aliev Ali",
+    "Address": "Dushanbe",
+    "Phone": "9870943asca21"
+  }
+]
